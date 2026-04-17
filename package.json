@@ -1,0 +1,18 @@
+{
+  "name": "openclaw-installer",
+  "version": "1.0.0",
+  "description": "Production-ready one-click OpenClaw installer for Ubuntu VPS",
+  "main": "cli.js",
+  "bin": {
+    "openclaw-installer": "./cli.js"
+  },
+  "scripts": {
+    "install-openclaw": "node cli.js install",
+    "repair": "node cli.js repair",
+    "validate": "node cli.js validate"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
