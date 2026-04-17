@@ -335,12 +335,12 @@ Openclaw-tool/
 **Gencloud cung cap VPS chuyen dung cho OpenClaw:**
 
 - ✅ **Ubuntu 22.04 / 24.04** da cai san OpenClaw
-- ✅ **API ChatGPT GPT-5.4 KHONG GIOI HAN** request — tang kem moi VPS
+- ✅ **API ChatGPT GPT-5.4 KHONG GIOI HAN** request — tang kem khi mua VPS openclaw
 - ✅ **9Router API key** san sang su dung ngay
 - ✅ **Tool cau hinh 1-click** — chi can nhap Telegram token la xong
 - ✅ **Ho tro ky thuat 24/7** qua Telegram va Zalo
 - ✅ **Uptime 99.9%** — ha tang Viet Nam + quoc te
-- ✅ **Gia tu 49.000d/thang** — re nhat thi truong
+- ✅ **Gia tu 50.000d/thang** — re nhat thi truong
 
 </td>
 <td width="40%">
@@ -349,10 +349,10 @@ Openclaw-tool/
 
 | Goi | CPU | RAM | Gia |
 |-----|-----|-----|-----|
-| **Starter** | 1 vCPU | 1 GB | 49.000d/th |
-| **Basic** | 2 vCPU | 2 GB | 89.000d/th |
-| **Pro** | 4 vCPU | 4 GB | 169.000d/th |
-| **Business** | 8 vCPU | 8 GB | 329.000d/th |
+| **Starter** | 1 vCPU | 1 GB | 50.000d/th |
+| **Basic** | 2 vCPU | 2 GB | 90.000d/th |
+| **Pro** | 4 vCPU | 4 GB | 200.000d/th |
+| **Business** | 8 vCPU | 16 GB | 540.000d/th |
 
 *Tat ca goi deu tang kem API ChatGPT khong gioi han*
 
@@ -363,11 +363,11 @@ Openclaw-tool/
 <p align="center">
   <b>🌐 Website: <a href="https://gencloud.vn">gencloud.vn</a></b>
   <br>
-  <sub>Lien he tu van: Telegram @gencloud_support | Zalo: 0xxx.xxx.xxx</sub>
+  <sub>Lien he tu van: Telegram @gencloudsp | Zalo: 0335463621</sub>
 </p>
 
 <p align="center">
-  <i>Mua VPS tai Gencloud → Nhan API ChatGPT mien phi → Chay 1 lenh setup → Bot Telegram AI san sang trong 2 phut</i>
+  <i>Mua VPS OPENCLAW tai Gencloud → Nhan API ChatGPT mien phi → Chay 1 lenh setup → Bot Telegram AI san sang trong 2 phut</i>
 </p>
 
 ---
